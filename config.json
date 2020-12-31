@@ -1,13 +1,45 @@
 {
   "ads_config": {
-    "ad_platform": "admob",
     "ad_time": 10,
-    "admob_app_id": "ca-app-pub-4463883562173773~5637340454",
-    "admob_banner_id": "ca-app-pub-4463883562173773/2907041819",
-    "admob_popup_id": "ca-app-pub-4463883562173773/1698095441",
-    "unity_app_id": "3943833",
-    "unity_banner_id": "banner",
-    "unity_popup_id": "video"
+    "ad_waterfall": [
+      "admob",
+      "unity"
+    ],
+    "ad_model": [
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-4463883562173773~5637340454",
+        "banner_id": "ca-app-pub-4463883562173773/2907041819",
+        "popup_id": "ca-app-pub-4463883562173773/1698095441",
+        "reward_id": "ca-app-pub-3940256099942544/5224354917"
+      },
+      {
+        "name": "unity",
+        "app_id": "3943833",
+        "banner_id": "banner",
+        "popup_id": "video",
+        "reward_id": "video"
+      }
+    ]
+  },
+  "fanpage_config": {
+    "fanpage": [
+      {
+        "link": "https://www.facebook.com/groups/2321816274773035",
+        "target": "us",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/2321816274773035",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/2321816274773035",
+        "target": "def",
+        "enable": true
+      }
+    ]
   },
   "album_config": {
     "album": [
@@ -32,25 +64,6 @@
     "message": "",
     "url": ""
   },
-  "fanpage_config": {
-    "fanpage": [
-      {
-        "link": "https://www.facebook.com/groups/2321816274773035",
-        "target": "us",
-        "enable": true
-      },
-      {
-        "link": "https://www.facebook.com/groups/2321816274773035",
-        "target": "vn",
-        "enable": true
-      },
-      {
-        "link": "https://www.facebook.com/groups/2321816274773035",
-        "target": "def",
-        "enable": true
-      }
-    ]
-  },
   "shopping_config": {
     "shopping": [
       {
@@ -74,8 +87,6 @@
     ]
   },
   "moreapp_config": {
-    "moreapp": [
-      
-    ]
+    "moreapp": []
   }
 }
