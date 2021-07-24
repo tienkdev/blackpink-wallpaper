@@ -1,6 +1,7 @@
 {
   "ads_config": {
-    "ad_time": 20,
+    "ad_time": 40,
+    "ad_spacing":3,
     "ad_waterfall": [
       "admob",
       "unity"
@@ -8,9 +9,9 @@
     "ad_model": [
       {
         "name": "admob",
-        "app_id": "ca-app-pub-4463883562173773~5637340454",
-        "banner_id": "ca-app-pub-4463883562173773/2907041819",
-        "popup_id": "ca-app-pub-4463883562173773/1698095441",
+        "app_id": "ca-app-pub-4463883562173773~6217952351",
+        "banner_id": "ca-app-pub-4463883562173773/7339462338",
+        "popup_id": "ca-app-pub-4463883562173773/2087135651",
         "reward_id": "ca-app-pub-3940256099942544/5224354917"
       },
       {
