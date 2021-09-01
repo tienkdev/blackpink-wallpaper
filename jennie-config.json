@@ -1,0 +1,53 @@
+{
+  "ads_config": {
+    "ad_time": 40,
+    "ad_spacing":3,
+    "ad_waterfall": [
+      "unity"
+    ],
+    "ad_model": [
+      {
+        "name": "unity",
+        "app_id": "4287705",
+        "banner_id": "banner",
+        "popup_id": "video",
+        "reward_id": "video"
+      }
+    ]
+  },
+  "fanpage_config": {
+    "fanpage": [
+      {
+        "link": "https://www.facebook.com/groups/2321816274773035",
+        "target": "us",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/2321816274773035",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/2321816274773035",
+        "target": "def",
+        "enable": true
+      }
+    ]
+  },
+  "update_config": {
+    "enable": false,
+    "versionCode": 10,
+    "versionName": "1.1",
+    "title": "",
+    "message": ""
+  },
+  "redirect_config": {
+    "enable": false,
+    "title": "",
+    "message": "",
+    "url": ""
+  },
+  "moreapp_config": {
+    "moreapp": []
+  }
+}
