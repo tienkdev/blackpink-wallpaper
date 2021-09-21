@@ -3,9 +3,17 @@
     "ad_time": 40,
     "ad_spacing":3,
     "ad_waterfall": [
+      "admob",
       "unity"
     ],
     "ad_model": [
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-4463883562173773~3022165532",
+        "banner_id": "ca-app-pub-4463883562173773/9396002199",
+        "popup_id": "ca-app-pub-4463883562173773/2495536011",
+        "reward_id": ""
+      },
       {
         "name": "unity",
         "app_id": "4287695",
