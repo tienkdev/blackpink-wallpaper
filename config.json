@@ -9,10 +9,10 @@
     "ad_model": [
       {
         "name": "admob",
-        "app_id": "ca-app-pub-4463883562173773~6217952351",
-        "banner_id": "ca-app-pub-4463883562173773/7339462338",
-        "popup_id": "ca-app-pub-4463883562173773/2087135651",
-        "reward_id": "ca-app-pub-3940256099942544/5224354917"
+        "app_id": "ca-app-pub-4463883562173773~7475226494",
+        "banner_id": "ca-app-pub-4463883562173773/9771406715",
+        "popup_id": "ca-app-pub-4463883562173773/8538216092",
+        "reward_id": "ca-app-pub-4463883562173773/5593504466"
       },
       {
         "name": "unity",
