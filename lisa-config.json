@@ -12,14 +12,14 @@
         "app_id": "ca-app-pub-4463883562173773~3022165532",
         "banner_id": "ca-app-pub-4463883562173773/9396002199",
         "popup_id": "ca-app-pub-4463883562173773/2495536011",
-        "reward_id": ""
+        "reward_id": "ca-app-pub-4463883562173773/5322676186"
       },
       {
         "name": "unity",
         "app_id": "4287695",
         "banner_id": "banner",
         "popup_id": "video",
-        "reward_id": "video"
+        "reward_id": "rewardedVideo"
       }
     ]
   },
