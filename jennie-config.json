@@ -7,6 +7,13 @@
     ],
     "ad_model": [
       {
+        "name": "admob",
+        "app_id": "ca-app-pub-4463883562173773~2621858202",
+        "banner_id": "ca-app-pub-4463883562173773/8185762808",
+        "popup_id": "ca-app-pub-4463883562173773/8445902667",
+        "reward_id": "ca-app-pub-4463883562173773/1481039060"
+      },
+      {
         "name": "unity",
         "app_id": "4287705",
         "banner_id": "banner",
