@@ -68,22 +68,19 @@
   "shopping_config": {
     "shopping": [
       {
-        "data_file_url": "https://www.dropbox.com/s/27nmjjwoiabecdu/item_sell_us.json?dl=1",
-        "target": "def",
-        "enable": false,
-        "show_price": true
-      },
-      {
-        "data_file_url": "https://www.dropbox.com/s/8ej4daswhyswiqe/item_sell_vi.json?dl=1",
-        "target": "vn",
-        "enable": false,
-        "show_price": true
-      },
-      {
-        "data_file_url": "https://www.dropbox.com/s/27nmjjwoiabecdu/item_sell_us.json?dl=1",
+        "link": "https://tienkdev.github.io/shop/?category=tokyo_revenger",
         "target": "us",
-        "enable": false,
-        "show_price": true
+        "enable": true
+      },
+      {
+        "link": "https://tienkdev.github.io/shop/?category=tokyo_revenger",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://tienkdev.github.io/shop/?category=tokyo_revenger",
+        "target": "def",
+        "enable": true
       }
     ]
   },
