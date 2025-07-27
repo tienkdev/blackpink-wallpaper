@@ -68,17 +68,17 @@
   "shopping_config": {
     "shopping": [
       {
-        "link": "https://tienkdev.github.io/shop/?category=tokyo_revenger",
+        "link": "https://tienkdev.github.io/shop/?category=black_pink",
         "target": "us",
         "enable": true
       },
       {
-        "link": "https://tienkdev.github.io/shop/?category=tokyo_revenger",
+        "link": "https://tienkdev.github.io/shop/?category=black_pink",
         "target": "vn",
         "enable": true
       },
       {
-        "link": "https://tienkdev.github.io/shop/?category=tokyo_revenger",
+        "link": "https://tienkdev.github.io/shop/?category=black_pink",
         "target": "def",
         "enable": true
       }
