@@ -42,6 +42,25 @@
       }
     ]
   },
+   "shopping_config": {
+    "shopping": [
+      {
+        "link": "https://tienkdev.github.io/shop/?category=black_pink",
+        "target": "us",
+        "enable": true
+      },
+      {
+        "link": "https://tienkdev.github.io/shop/?category=black_pink",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://tienkdev.github.io/shop/?category=black_pink",
+        "target": "def",
+        "enable": true
+      }
+    ]
+  },
   "update_config": {
     "enable": false,
     "versionCode": 10,
